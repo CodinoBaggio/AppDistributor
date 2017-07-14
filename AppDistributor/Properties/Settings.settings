@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AppDistributor.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="BootExeName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">CCS.exe</Value>
+    </Setting>
+    <Setting Name="CurrentVerFileName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">CurrentVer.txt</Value>
+    </Setting>
+    <Setting Name="UpdateVerFileName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">UpdateVer.txt</Value>
+    </Setting>
+    <Setting Name="DownloadUri" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://localhost/exe/ccs/</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
